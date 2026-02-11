@@ -12,12 +12,12 @@
 }
 
 header {
-    max-width: 1200px;
+    max-width: 1700px;
     margin: auto;
 }
 
 .hero {
-    max-width: 1200px;
+    max-width: 1700px;
     margin: auto;
 }
 
@@ -57,7 +57,7 @@ header {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    max-width: 1200px;
+    max-width: 1700px;
     width: 100%;
     padding: 20px 70px;
     display: flex;
@@ -94,12 +94,12 @@ header {
 
 /* ================= HERO ================= */
 .hero {
-    height: 100vh;
+    height: 1000px;
     background: linear-gradient(120deg, #000000, #00d4ff);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 120px 50px;
+    padding: 120px 70px;
 }
 
 .hero-content {
